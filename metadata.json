@@ -1,0 +1,6 @@
+{
+  "name": "EcoStrat US - Simulador Ejecutivo de Gestión de Residuos",
+  "description": "Plataforma interactiva para presentaciones ejecutivas sobre gestión de vertederos, plásticos y emisiones en California, Nueva York y Florida con simulación de variables en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
